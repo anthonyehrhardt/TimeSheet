@@ -1,3 +1,3 @@
 <cfoutput>
-    "report 3"
+    "Here report type 3 will come.(In Dev)"
 </cfoutput>
